@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Questrial', sans-serif;
+    justify-content: flex-start;
+}
+.logo{
+    width: 70PX;
+
+}
+
+.carousel{
+    height: 100px;
+}
+
+
+.carousel-control-next-icon {
+    visibility: hidden;
+}
+
+
+.carousel-control-prev-icon {
+    visibility: hidden;
+
+}
+
+.carousel-inner {
+
+    max-height: 850px;
+}
